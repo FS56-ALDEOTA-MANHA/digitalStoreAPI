@@ -105,5 +105,19 @@
       "priceDiscount": "1199",
       "image": "/tenis.svg"
     }
+  ],
+  "usuarios": [
+    {
+      "email": "queiroz.14@hotmail.com",
+      "senha": "123"
+    },
+    {
+      "email": "zenith@hotmail.com",
+      "senha": "123456"
+    },
+    {
+      "email": "samuel@hotmail.com",
+      "senha": "12345"
+    }
   ]
 }

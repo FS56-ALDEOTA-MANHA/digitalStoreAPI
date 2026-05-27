@@ -1,0 +1,109 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Nike Air Max Pulse",
+      "price": "749",
+      "priceDiscount": "749",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost Light",
+      "price": "1000",
+      "priceDiscount": "800",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 3,
+      "name": "Puma RS-X Reinvention",
+      "price": "699",
+      "priceDiscount": "549",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 4,
+      "name": "New Balance 550",
+      "price": "799",
+      "priceDiscount": "659",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 5,
+      "name": "Fila Racer Carbon",
+      "price": "599",
+      "priceDiscount": "479",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 6,
+      "name": "Mizuno Wave Prophecy",
+      "price": "1299",
+      "priceDiscount": "1099",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 7,
+      "name": "Asics Gel Nimbus 26",
+      "price": "1199",
+      "priceDiscount": "999",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 8,
+      "name": "Olympikus Corre 3",
+      "price": "499",
+      "priceDiscount": "399",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 9,
+      "name": "Converse Chuck Taylor",
+      "price": "349",
+      "priceDiscount": "279",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 10,
+      "name": "Vans Old Skool",
+      "price": "429",
+      "priceDiscount": "349",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 11,
+      "name": "Reebok Nano X4",
+      "price": "899",
+      "priceDiscount": "769",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 12,
+      "name": "Under Armour Charged",
+      "price": "649",
+      "priceDiscount": "649",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 13,
+      "name": "Jordan Max Aura 5",
+      "price": "1099",
+      "priceDiscount": "939",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 14,
+      "name": "Hoka Clifton 9",
+      "price": "1199",
+      "priceDiscount": "1019",
+      "image": "/tenis.svg"
+    },
+    {
+      "id": 15,
+      "name": "Saucony Endorphin Speed",
+      "price": "1399",
+      "priceDiscount": "1199",
+      "image": "/tenis.svg"
+    }
+  ]
+}
